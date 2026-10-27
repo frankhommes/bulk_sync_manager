@@ -6,6 +6,7 @@ Plugin URI: https://github.com/frankhommes/piwigo_tam
 Author: Frank Hommes
 Author URI: http://www.freanki.net/
 Description: Runs large Piwigo file synchronizations in short batches to avoid request timeouts.
+Has Settings: true
 */
 
 if (!defined('PHPWG_ROOT_PATH'))
